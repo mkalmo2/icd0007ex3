@@ -18,9 +18,8 @@
             <td><label for="year">Aasta</label>:</td>
             <td>
                 <select name="year" id="year">
-                    <option>2019</option>
-                    <option>2020</option>
-                    <option>2021</option>
+                    <option value="2020/2021">2020/2021</option>
+                    <option value="2021/2022">2021/2022</option>
                 </select>
             </td>
         </tr>
